@@ -173,5 +173,20 @@ body {
 	position: absolute;
 	top:1333px ;
 	right: 9.8%;
+	width:780px;
+	height:560px;
 	
+}
+#tabellone {
+	position:absolute;
+	right:10px;
+	background-color: #330ab4;
+	width:760px;
+	color:white;
+}
+#largo {
+	width: 200px;
+}
+#corto {
+	width:60px;
 }
